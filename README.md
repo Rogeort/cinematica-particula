@@ -1,4 +1,7 @@
-# RECOPILACION PRACTICAS UNIDAD 1. CINEMATICA DE UNA PARTICULA
-### Solución de problemas movimiento rectilíneo usando MatLab
+# RECOPILACION PRACTICAS UNIDAD 1. CINEMATICA DE UNA PARTICULA - CODIGO MATLAB
+## Practica 2. Movimiento rectilineo
 <div style="width:1px;height:100px;background-color:black;"></div>
-Para la ** Practica 2. Movimiento rectilineo ** y sus soluciones asi como graficas se encuentran en el archivo  <code>P1main.ipynb.m</code>.
+El codigo usado para solucionar los problemas de la practica se encuentran en el archivo <code>p2main.ipynb.m</code>.
+
+## Practica 3. Movimiento rectilíneo en coordenadas rectangulares: tiro parabólico
+El codigo usado para solucionar los problemas de la practica se encuentran en el archivo <code>p3main.ipynb.m</code>.
